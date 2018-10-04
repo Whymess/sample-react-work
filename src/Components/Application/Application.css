@@ -1,0 +1,66 @@
+body {
+	height: 1000px;
+	width: 100%;
+	background-color: #f1f1f1;
+	font-family: 'Open Sans', Sans-Serif;
+	font-size: 20px;
+}
+
+
+/*CARD CSS*/
+
+.card {
+	background-color: white;
+	border: 1px solid;
+	height: auto;
+}
+
+/*head_section*/
+
+.head_section {
+	text-transform: uppercase;
+	font-size: 2em;
+	color: grey;
+}
+
+
+/*Table */
+td {
+	width: 5em;
+}
+
+/*Sort Buttons*/
+.dot {
+    height: 2em;
+    width: 2em;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.gold {
+	background-color: #FFD700;
+}
+
+.silver {
+	background-color: #c0c0c0;
+}
+
+.bronze {
+	background-color: #cd7f32;
+}
+
+.total_button {
+	background-color: transparent;
+	border: none;
+	padding-top: 9px;
+}
+
+/*Click State*/
+
+.click_state {
+	border-top: 4px solid;
+}
+
+
+
+

@@ -1,0 +1,11 @@
+
+.total_name {
+	font-weight: bolder;
+}
+
+.gold_name,
+.silver_name,
+.bronze_name,
+.total_name{
+	text-align: center;
+}
